@@ -1,2 +1,10 @@
 # papers
 Technical Papers I've written of varying technical rigor and subjective opinion
+
+## Towards a Secure, Decentralized Future 
+
+### Motivation
+I fear a Kafkaesque nightmare in the not too distant future where unfeeling bureaucratic policy dictated according to statistical guarantees made by machine learning models trained on an unfathomably large amount of data (much of which were thought to be safely encrypted) and executed by binary code leading to the destruction of freedom and autonomy of people around the world. As we continue to exponentially increase our computational power (both 3d and quantum) it is only a matter of time until this dream becomes reality. Adding to my fear, the control of those computing resources is becoming increasingly centralized (as is wealth and most other resources). Only governments and large corporations have access to these computing resources which can instantaneously reveal all that individuals had thought was protected or in the past. Even today, algorithmic ad targeting often provides more detailed and accurate insights about people and their habits better than they, or their closest friends or family ever could. It is not unreasonable to assume that in the near future execution of tasks both in the physical and ethical world are largely handed over to machines. 
+
+### Abstract 
+In this paper, I focus on the current state of information security and the problems the security community faces today due to our reliance on centralized computer systems architecture, and the problems society will face in the near future due to the rapid development of quantum computers which can break the encryption upon which we rely daily. But fear not! I propose solutions to these two problems based on work done by prominent researchers. Finally, I will provide some practical recommendations for both small organizations and individuals, both now and going forward. The goal of this paper is to inform people, regardless of technical background, about the security of their data, and what can be done to protect it.
